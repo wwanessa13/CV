@@ -1,0 +1,32 @@
+---
+title: "Contato"
+image: AutorW.jpeg
+format:
+  html:
+    toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: "mailto:wanessa.a.lima@ufv.br"
+    - text: Linkedin
+      icon: linkedin
+      href: www.linkedin.com/in/wanessa-alves-lima-paiva-67028a252
+---
+
+## Aluna de doutorado
+
+Genética e Melhoramento - UFV
+
+## Pesquisadora
+
+Laboratório de Inteligência Computacional e Aprendizado Estatístico (LICAE)
+
+## Professora 
+
+Linguagem R 
+
+Química, Física e Biologia

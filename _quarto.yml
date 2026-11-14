@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+   - assets/forms-widget.html
+
+website:
+  title: "Wanessa Alves Lima Paiva"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Início
+      - href: Form.qmd
+        text: Formação
+      - href: Habilidades.qmd
+        text: Habilidades
+      - href: Publi.qmd
+        text: Publicações
+      - href: Cursos.qmd
+        text: Cursos
+      - href: Palestras.qmd
+        text: Palestras
+
+format:
+  html:
+    theme:
+    - cerulean
+    css: styles.css
+    toc: true
+

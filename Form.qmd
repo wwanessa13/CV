@@ -1,0 +1,137 @@
+---
+title: ""
+format: html
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Educação
+
+### Especialista em Inteligência Artificial e Data Science (2026) 
+
+Universidade Pitágoras Unopar Anhanguera
+
+### Especialista em DevOps (2026)
+
+Universidade Pitágoras Unopar Anhanguera
+
+### Doutoranda em Genética e Melhoramento (2024 - momento)
+
+Universidade Federal de Viçosa (UFV), Viçosa, MG, Brasil <br> Orientador: Moysés Nascimento
+
+### Mestre em Genética e Melhoramento (2024)
+
+Universidade Federal de Viçosa (UFV), Viçosa, MG, Brasil <br> Orientador: Wellington Ronildo Clarindo
+
+### Bióloga (2022)
+
+Universidade Estadual do Piauí (UESPI), Teresina, PI, Brasil <br>
+Orientadora: Francielle Alline Martins
+
+## Experiência
+
+### Colégio Naviraí
+
+**(2026 - momento)**
+
+Professora: 
+
+- Química, Física e Biologia - Ensino Fundamental II
+
+### Jovens Pesquisadores da Região Brasileira da Sociedade Internacional de Biometria (JP-RBras)
+
+**(2025 - 2025)**
+
+Atribuições:
+
+- Organização de eventos
+- Palestras e cursos na área de estatística 
+
+### R-Ladies capítulo Vitória
+
+**(2025 - 2025)**
+
+Atribuições:
+
+- Organização de eventos
+- Palestras e cursos
+- Ensino da linguagem R
+
+### [Verterra](https://verterra.quarto.pub/verterra/)
+
+**(2024 - momento)**
+
+Professora: 
+
+- Linguagem R: simulação, manipulação, visualização e análise de dados
+
+### Laboratório de Inteligência Computacional e Aprendizado Estatístico (LICAE) – UFV
+
+**(2024 - momento)**
+
+Pesquisadora:
+
+- Melhoramento de Plantas
+
+- Genética Quantitativa
+
+- Seleção Genômica
+
+- Interação Genótipo x Ambiente
+
+- Aprendizado de máquina
+
+- Análise Estatística
+
+### Grupo de Estudos em Genética e Melhoramento (GenMelhor)
+
+**(2023 - 2025)**
+
+Atribuções:
+
+- Recrutamento e seleção
+
+- Gestão de desempenho
+
+- Relações trabalhistas e conflitos
+
+- Benefícios e remuneração
+
+- Gerenciamento de registros e documentação
+
+- Comunicação interna
+
+- Aconselhamento e suporte
+
+### Laboratório de Citogenética e Citometria – UFV
+
+**(2022 - 2023)**
+
+Pesquisadora:
+
+- Melhoramento de Plantas
+
+- Citogenética Vegetal
+
+- Extração de DNA, PCR e Eletroforese
+
+- Bioinformática
+
+- Análise estatística
+
+### Laboratório de Genética (LABGENE) – UESPI
+
+**(2021-2022)**
+
+Atribuições:
+
+- Realizar experimentos na área de mutagênese e genotoxicidade
+
+- Definir metas e atribuir tarefas aos demais membros do laboratório
+
+- Treinar e desenvolver a equipe em novas técnicas e procedimentos
+
+- Supervisionar o uso de equipamentos e reagentes
+
+- Gerenciar o estoque de materiais e reagentes

@@ -1,0 +1,26 @@
+---
+title: " "
+format: html
+---
+
+• Programação: R, Python e SQL
+
+• Estatística
+
+• Simulação
+
+• Aprendizado de Máquina e Aprendizado Profundo
+
+• Genética Qualitativa
+
+• Genética Quantitativa
+
+• Melhoramento de Plantas
+
+• Seleção Genômica
+
+• Interação Genótipos x Ambientes
+
+• Bioinformática
+
+• Biologia Molecular

@@ -1,0 +1,13 @@
+name: Learning_Quantitative_Genetics
+title: Learning_Quantitative_Genetics
+username: wwanessa13
+account: wwanessa13
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15202878
+bundleId: 10769278
+url: https://wwanessa13.shinyapps.io/Learning_Quantitative_Genetics/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: _extensions/quarto-ext/shinylive/_extension.yml|_extensions/quarto-ext/shinylive/README.md|_extensions/quarto-ext/shinylive/resources/css/shinylive-quarto.css|_extensions/quarto-ext/shinylive/shinylive.lua|_publish.yml|_quarto.yml|AutorW.jpeg|Carta.docx|Cursos.qmd|CV.docx|CV.pdf|desktop.ini|Form.qmd|Habilidades.qmd|index.qmd|LQG.qmd|Palestras.qmd|styles.css|_site|docs|images|LQG

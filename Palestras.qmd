@@ -1,0 +1,14 @@
+---
+title: " "
+format: html
+---
+
+# [Universidade Estadual do Piauí](https://uespi.br)
+
+![](images/clipboard-622566722.png){width="500"}
+
+# [RLadies Goiânia](https://www.rladiesgyn.com)
+
+Vídeo: <https://www.youtube.com/watch?v=JH186B1NLUw&t=9198s>
+
+![](images/SWD.jpeg){width="500"}

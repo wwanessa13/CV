@@ -1,0 +1,125 @@
+{
+  "index.qmd": {
+    "index.html": "faed3237"
+  },
+  "Formação.qmd": {
+    "Formação.html": "379dcae3"
+  },
+  "Cursos.qmd": {
+    "Cursos.html": "eb888132"
+  },
+  "Projetos.qmd": {
+    "Projetos.html": "82d87f70"
+  },
+  "Publicações.qmd": {
+    "Publicações.html": "baf16614"
+  },
+  "Habilidades.qmd": {
+    "Habilidades.html": "dd9ac17b"
+  },
+  "Experiência.qmd": {
+    "Experiência.html": "db0766f8"
+  },
+  "Projetos BI.qmd": {
+    "Projetos BI.html": "2c7e1765"
+  },
+  "Projetos ML.qmd": {
+    "Projetos ML.html": "58d68e7c"
+  },
+  "1.Rmd": {
+    "1.html": "2db55d90"
+  },
+  "Correlação/Correlação.Rmd": {
+    "Correlação.html": "5e123d26"
+  },
+  "Tutoriais Interativos.qmd": {
+    "Tutoriais Interativos.html": "1a06b52b"
+  },
+  "Projetos ML Python.qmd": {
+    "Projetos ML Python.html": "5c0348ae"
+  },
+  "Projetos ML R.qmd": {
+    "Projetos ML R.html": "65082894"
+  },
+  "Interação GxA.qmd": {
+    "Interação GxA.html": "99f8d8ea"
+  },
+  "FlexDashboard.Rmd": {
+    "FlexDashboard.html": "19a8c310"
+  },
+  "Power BI.qmd": {
+    "Power BI.html": "c16fa985"
+  },
+  "FlexDashboard.qmd": {
+    "FlexDashboard.html": "a81c71b5"
+  },
+  "Bancos Nativos.Rmd": {
+    "Bancos Nativos.html": "5efb7bac"
+  },
+  "FAO.Rmd": {
+    "FAO.html": "39d4dd7a"
+  },
+  "AppRColheita.qmd": {
+    "AppRColheita.html": "59e52463"
+  },
+  "APPs.qmd": {
+    "APPs.html": "7d13a28e"
+  },
+  "Dash Estático - Bancos Nativos.Rmd": {
+    "Dash Estático - Bancos Nativos.html": "1af000be"
+  },
+  "Ebooks.qmd": {
+    "Ebooks.html": "809f6d80"
+  },
+  "Quarto.qmd": {
+    "Quarto.html": "c02ae9d1"
+  },
+  "Palestras.qmd": {
+    "Palestras.html": "7ad38972"
+  },
+  "Formação.qmd": {
+    "Formação.html": "8d4be697"
+  },
+  "Form.qmd": {
+    "Form.html": "2101b59c"
+  },
+  "LQG.qmd": {
+    "LQG.html": "f339f9cc"
+  },
+  "Projetos/SWD/Desafio.qmd": {
+    "Desafio.html": "4c7ad24e"
+  },
+  "Projetos/SWD/ggplot2.qmd": {
+    "ggplot2.html": "65a5516d"
+  },
+  "Projetos/SWD/Interatividade.qmd": {
+    "Interatividade.html": "6f4ba40b"
+  },
+  "Projetos/SWD/index.qmd": {
+    "index.html": "5faa4c9d"
+  },
+  "Projetos/SWD/Parte 4.qmd": {
+    "Parte 4.html": "8dce5061"
+  },
+  "Projetos/SWD/Cores.qmd": {
+    "Cores.html": "5f862cc3"
+  },
+  "Projetos/SWD/Parte 2.qmd": {
+    "Parte 2.html": "60a50095"
+  },
+  "Projetos/SWD/Parte 3.qmd": {
+    "Parte 3.html": "8e536cd1"
+  },
+  "Projetos/SWD/Comunicar.qmd": {
+    "Comunicar.html": "4dbec96e"
+  },
+  "Projetos/SWD/Chamada.qmd": {
+    "Chamada.html": "e87048d6"
+  },
+  "Podcast.qmd": {
+    "Podcast.html": "4935b883"
+  },
+  "Publi.qmd": {
+    "Publi.html": "f5d34ec1"
+  }
+}

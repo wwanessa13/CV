@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    input { display:block; margin:10px 0; padding:8px; width:100%; }
+    button { padding:10px 20px; cursor:pointer; }
+    #success { display:none; color:green; margin-top:10px; }
+    #success.show { display:block; }
+  </style>
+</head>
+
+<body>
+
+  <input id="name" placeholder="Seu nome" />
+  <input id="email" placeholder="Seu e-mail" />
+  <button id="submit-btn" onclick="handleSubmit()">Receber livro</button>
+
+  <div id="success">Enviado com sucesso!</div>
+
+  <script>
+    const WEBHOOK_URL = "https://wwanessa13.app.n8n.cloud/webhook/ceb5c60c-5f1d-48cd-846e-18b8644675db";
+
+    async function handleSubmit() {
+      const name  = document.getElementById("name").value.trim();
+      const email = document.getElementById("email").value.trim();
+
+      if (!email || !email.includes("@")) {
+        document.getElementById("email").style.borderColor = "#b5451b";
+        document.getElementById("email").focus();
+        return;
+      }
+
+      const btn = document.getElementById("submit-btn");
+      btn.disabled = true;
+
+      try {
+        await fetch(WEBHOOK_URL, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            name,
+            email,
+            source: "newsletter-widget",
+            ts: new Date().toISOString()
+          })
+        });
+      } catch (e) {
+        console.warn("Webhook error:", e);
+      }
+
+      btn.disabled = false;
+      document.getElementById("success").classList.add("show");
+    }
+  </script>
+
+</body>
+</html>

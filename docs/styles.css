@@ -1,0 +1,58 @@
+/* Aumenta largura da coluna direita (conteúdo) */
+.quarto-about-trestles .about-contents {
+  flex: 7;   /* valor padrão é ~2, aumentando fica mais largo */
+}
+
+/* Opcional: diminui largura da coluna da foto */
+.quarto-about-trestles .about-entity {
+  flex: 1;   /* valor padrão é ~1.5, diminuindo libera espaço p/ texto */
+}
+
+/* Impede quebra de linha nos parágrafos do about */
+.quarto-about-trestles .about-contents p {
+  white-space: nowrap;
+}
+
+
+.role-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2em;
+  margin-top: 1em;
+  text-align: center;
+}
+
+.role-card {
+  background: #f9f9f9;
+  padding: 1em;
+  border-radius: 10px;
+  width: 180px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease;
+}
+
+.role-card:hover {
+  transform: translateY(-5px);
+}
+
+.role-card h3 {
+  color: #007BFF;
+  font-size: 1.1em;
+  margin-bottom: 0.6em;
+}
+
+.role-card img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+h2 {
+  margin-bottom: 0.1em;  /* diminui o espaço abaixo dos títulos h2 */
+}
+
+h3 {
+  margin-bottom: 0.1em;  /* se usar h3 para os títulos, ajuste aqui também */
+}

@@ -1,0 +1,17 @@
+---
+title: ""
+format: html
+editor: 
+  markdown: 
+    wrap: 72
+editor_options: 
+  chunk_output_type: console
+---
+
+## Artigos principais
+
+Nascimento, M., Costa, N.M.E.P.d.L.d., Nascimento, A.C.C., Costa, W.G.d., Paiva, W.A.L., & Jarquín, D. (2026). Complex and Non-Linear Modeling of Genotype × Environment Interaction via Tree-Based Learning Algorithms and Shapley Decomposition. Agriculture, 16(20), 2290. [https://doi.org/10.3390/agriculture16202290](https://doi.org/10.3390/agriculture16202290)
+
+Paiva, W.A.L., da Costa, W.G., Machado, L.P., Nascimento, A.C.C., Jarquin, D., Nascimento, M. (2026). Non-Linear Kernel Methods for Genomic Prediction of Soybean Yield and Quality in Multi-Environment Trials. Theor Appl Genet 139, 277. [https://doi.org/10.1007/s00122-026-05387-3](https://doi.org/10.1007/s00122-026-05387-3)
+
+Paiva, W.A.L., Oliveira, B.V.d., Azevedo, C.F., Nascimento, A.C.C., Jarquin, D., & Nascimento, M. (2026). Efficiency of Factor Analysis-Based Selection Indices Under Varying Heritability and Trait-Environment Correlations. Agriculture, 16(9), 1001. [https://doi.org/10.3390/agriculture16091001](https://doi.org/10.3390/agriculture16091001)

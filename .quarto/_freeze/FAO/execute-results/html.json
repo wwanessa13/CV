@@ -1,0 +1,14 @@
+{
+  "hash": "f3c92f10f608fa4c4d16f814c1a95d58",
+  "result": {
+    "markdown": "---\ntitle: \"Produção de Frutas\"\noutput: \n  flexdashboard::flex_dashboard:\n    orientation: columns\n    vertical_layout: fill\n    theme: spacelab\n---\n\n\n\n\n#Geral\n\n## Column {data-width=180}\n\n\n\n# Maçãs\n\n## Column {data-width=500}\n\n### Produção por país em cada ano\n\n\n# Bananas\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
