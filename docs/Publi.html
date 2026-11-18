@@ -142,8 +142,8 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="artigos-principais" class="level2">
 <h2 class="anchored" data-anchor-id="artigos-principais">Artigos principais</h2>
-<p>Nascimento, M., Costa, N. M. E. P. d.&nbsp;L. d., Nascimento, A. C. C., Costa, W. G. d., Paiva, W. A. L., &amp; Jarquín, D. (2026). Complex and Non-Linear Modeling of Genotype × Environment Interaction via Tree-Based Learning Algorithms and Shapley Decomposition. Agriculture, 16(20), 2290. <a href="https://doi.org/10.3390/agriculture16202290">https://doi.org/10.3390/agriculture16202290</a></p>
-<p>Paiva, W.A.L., da Costa, W.G., Machado, L.P., Nascimento, A.C.C., Jarquin, D., Nascimento, M. (2026) Non-linear kernel methods for genomic prediction of soybean yield and quality in multi-environment trials. Theor Appl Genet 139, 277. <a href="https://doi.org/10.1007/s00122-026-05387-3">https://doi.org/10.1007/s00122-026-05387-3</a></p>
+<p>Nascimento, M., Costa, N.M.E.P.d.L.d., Nascimento, A.C.C., Costa, W.G.d., Paiva, W.A.L., &amp; Jarquín, D. (2026). Complex and Non-Linear Modeling of Genotype × Environment Interaction via Tree-Based Learning Algorithms and Shapley Decomposition. Agriculture, 16(20), 2290. <a href="https://doi.org/10.3390/agriculture16202290">https://doi.org/10.3390/agriculture16202290</a></p>
+<p>Paiva, W.A.L., da Costa, W.G., Machado, L.P., Nascimento, A.C.C., Jarquin, D., Nascimento, M. (2026). Non-Linear Kernel Methods for Genomic Prediction of Soybean Yield and Quality in Multi-Environment Trials. Theor Appl Genet 139, 277. <a href="https://doi.org/10.1007/s00122-026-05387-3">https://doi.org/10.1007/s00122-026-05387-3</a></p>
 <p>Paiva, W.A.L., Oliveira, B.V.d., Azevedo, C.F., Nascimento, A.C.C., Jarquin, D., &amp; Nascimento, M. (2026). Efficiency of Factor Analysis-Based Selection Indices Under Varying Heritability and Trait-Environment Correlations. Agriculture, 16(9), 1001. <a href="https://doi.org/10.3390/agriculture16091001">https://doi.org/10.3390/agriculture16091001</a></p>
 
 
@@ -223,7 +223,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/wwanessa13\.quarto\.pub\/wanessa-alves-lima");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
